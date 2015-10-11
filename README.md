@@ -20,13 +20,19 @@ https://github.com/suzannepk/Human-Supercomputer-/blob/gh-pages/Concepts_Human_S
 ##Materials 
 
 **Monte Carlo Pi**
-20 Dartboards for Monte Carlo Pi: https://github.com/suzannepk/Human-Supercomputer-/blob/gh-pages/MonteCarloGPUWorksheet.pdf
 
-Memory Sheet ofr Monte Carlo Pi: https://github.com/suzannepk/Human-Supercomputer-/blob/gh-pages/MonteCarloMemorySheet.pdf
+20 Dartboards for Monte Carlo Pi:
+
+https://github.com/suzannepk/Human-Supercomputer-/blob/gh-pages/MonteCarloGPUWorksheet.pdf
+
+Memory Sheet ofr Monte Carlo Pi:
+
+https://github.com/suzannepk/Human-Supercomputer-/blob/gh-pages/MonteCarloMemorySheet.pdf
 
 C coding tutorals for extending Monte Carol Pi to non-huamn computers:https://www.olcf.ornl.gov/tutorials/monte-carlo-pi/
 
 **Origmi Rabbit Race**
+
 You will need 20-50 sheets of origani paper or other paper that has been cut into a square. 
 
 Easy Origami Rabbit: http://www.origami-resource-center.com/origami-rabbit-head.html
